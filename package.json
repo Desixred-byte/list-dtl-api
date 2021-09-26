@@ -1,0 +1,26 @@
+{
+  "name": "listing-dtl-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Official api for our listing service, listing.discordtownshop.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desixred-byte/list-dtl-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "desi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desixred-byte/list-dtl-api/issues"
+  },
+  "homepage": "https://github.com/Desixred-byte/list-dtl-api#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
